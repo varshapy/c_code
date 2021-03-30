@@ -1,5 +1,5 @@
 #include<stdio.h>
 void main(){
-	big();
+	big3();
 	fact();
 }
