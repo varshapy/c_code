@@ -6,6 +6,7 @@ void fact() {
     scanf("%d", &n);
 
     // shows error if the user enters a negative integer
+    //demo
     if (n < 0)
         printf("Error! Factorial of a negative number doesn't exist.");
     else {
